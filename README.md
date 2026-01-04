@@ -24,6 +24,6 @@ I'm currently building Jobbly from the ground up — architecture, product desig
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/maciej-sularz  
 - Website: https://jobbly.app  
-- Email: founder@jobbly.app
+- Email: maciej@jobbly.app
 
 ---
