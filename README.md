@@ -1,4 +1,4 @@
-## Hi, I'm Maciej Sularz 👋  
+## Hi, I'm Maciej 👋  
 Founder & CEO of **Jobbly**, a next-generation workforce management platform for small businesses.  
 I'm currently building Jobbly from the ground up — architecture, product design, and full-stack implementation.
 
